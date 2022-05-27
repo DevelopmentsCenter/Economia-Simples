@@ -12,6 +12,7 @@ Um bot de economia simples (discord.js v12)
 | Comando | :white_check_mark: |
 
 # Discord
-[Development Center](https://discord.gg/a9Ns3YAubU)
-#
+<a href="https://discord.gg/a9Ns3YAubU"><img src="https://discord.com/api/guilds/922231150406164500/widget.png">
+</a>
+</p>
 ©️ 2022, jhoOrdann#9847
